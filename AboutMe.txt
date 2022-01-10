@@ -1,3 +1,6 @@
 Celine Vogel
 
 Ich bin eine Teilnehmerin des Web Development Bootcamps.
+
+How old are you?
+I am 22 years old.
