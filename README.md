@@ -5,7 +5,7 @@ __I am a student in the Web Development Bootcamp and I am born in Neuendettelsau
 # How old are you?
 I am 22 years old.
 
-# Where are you living?
+# Where do you live?
 I live in Nürnberg.
 
 # How are your pets called?
