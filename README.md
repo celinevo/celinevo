@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Celine</h1>
-<h3 align="center">A junior frontend developer from Nürnberg, Germany</h3>
+<h3 align="center">A junior frontend developer from Nuremberg, Germany</h3>
 
 - 🔭 I’m currently working on [CREEPY(pen)NE](https://github.com/celinevo/capstone-project)
 
